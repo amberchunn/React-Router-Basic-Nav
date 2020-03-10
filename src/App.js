@@ -9,10 +9,10 @@ const App = () => (
 		<Route exact path="/">
 			<Home />
 		</Route>
-		<Route path="/About">
+		<Route path="/about">
 			<About />
 		</Route>
-		<Route path="/Contact">
+		<Route path="/contact">
 			<Contact />
 		</Route>
 	</div>
